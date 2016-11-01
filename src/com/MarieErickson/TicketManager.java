@@ -68,7 +68,10 @@ public class TicketManager {
 
     public static void main(String[] args) {
         //storage for open tickets
-        LinkedList<Ticket> ticketQueue = new LinkedList<Ticket>();
+        TicketGUI ticketGUI = new TicketGUI();
+    }
+}
+        /*LinkedList<Ticket> ticketQueue = new LinkedList<Ticket>();
         //Storage for resolved tickets
         LinkedList<Ticket> resolvedTickets = new LinkedList<>();
 
@@ -420,4 +423,4 @@ public class TicketManager {
 
     }
 }
-
+*/
