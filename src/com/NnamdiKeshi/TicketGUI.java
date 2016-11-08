@@ -1,4 +1,4 @@
-package com.MarieErickson;
+package com.NnamdiKeshi;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

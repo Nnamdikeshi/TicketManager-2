@@ -55,13 +55,7 @@ bufWrite.write(t.getResolutionDate().toString());
 Problem 8: What happens to ticket IDs when the program is closed and opened? Make sure they don't reset to 1 when the user restarts the program.
 
  */
-package com.MarieErickson;
-import java.io.*;
-
-import java.text.DateFormat;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.*;
+package com.NnamdiKeshi;
 
 
 public class TicketManager {
